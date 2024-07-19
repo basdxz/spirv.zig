@@ -10,8 +10,8 @@
     },
     .dependencies = .{
         .toolbox = .{
-            .url = "https://github.com/basdxz/toolbox/archive/190e1a006862d0e1555d3a928faff4501bea9153.tar.gz",
-            .hash = "122021d7947015dbc4f1af8e56d7975b5b9e03a54bd77006df285bb4b76d3c8e5434",
+            .url = "https://github.com/basdxz/toolbox/archive/90579e886cc4cee0be326e12e0579b869eb1340f.tar.gz",
+            .hash = "1220acade8e0e92b68c4716a9eb0e56ef7b91290bd3e5e5712d11ba8f51159a28550",
         },
     },
 }
